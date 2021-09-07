@@ -5,5 +5,6 @@
 * **Fabric.csv:** [paired t-test] A random sample of the tensile strength of n=8 Abraided and Unabriaded fabrics.  May be used in two-sample or paired t-tests on the equality of the means
 * **cropdata2.csv:** [factorial design] A random sample of 15 observations on crop yield over I=2 levels of crop density and J=3 levels of fertilizer. 
 * **diameter.csv:** [hyp testing] A random sample of 100 measurements of the diamater of a part uses in a subassembly (null = 10mm)
+* **health_female.csv** [correlation, regression] A random sample of n=40 females with vital signs and fat pinches
 * **normtemp.csv:** [two-sample t-test,correlation] A random sample of n=65 males and females for body temperature and heartbeat.  
 
