@@ -8,4 +8,4 @@
 * **diameter.csv:** [hyp testing] A random sample of 100 measurements of the diamater of a part uses in a subassembly (null = 10mm)
 * **health_female.csv** [correlation, regression] A random sample of n=40 females with vital signs and fat pinches
 * **normtemp.csv:** [two-sample t-test,correlation] A random sample of n=65 males and females for body temperature and heartbeat.  
-
+* **StockPrices.csv** [correlation] Opening stock prices for Google, Starbucks, and Apple stock since 2007
