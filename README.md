@@ -10,3 +10,4 @@
 * **health_female.csv** [correlation, regression] A random sample of n=40 females with vital signs and fat pinches
 * **normtemp.csv:** [two-sample t-test,correlation] A random sample of n=65 males and females for body temperature and heartbeat.  
 * **StockPrices.csv** [correlation] Opening stock prices for Google, Starbucks, and Apple stock since 2007, without time stamp
+* **resistors.csv** [two-sample t-test] A random sample of n=50 resistors from suppliers A and B (mu_A=30, mu_B=29.75)
