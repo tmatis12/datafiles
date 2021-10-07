@@ -11,3 +11,4 @@
 * **normtemp.csv:** [two-sample t-test,correlation] A random sample of n=65 males and females for body temperature and heartbeat.  
 * **StockPrices.csv** [correlation] Opening stock prices for Google, Starbucks, and Apple stock since 2007, without time stamp
 * **resistors.csv** [two-sample t-test] A random sample of n=50 resistors from suppliers A and B (mu_A=30, mu_B=29.75)
+* **mats.csv** [paired t-test] A random sample of paired observations (min) on n=30 subjects from suppliers A and B (mu_A=20, mu_B=19)
