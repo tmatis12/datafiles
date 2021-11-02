@@ -12,3 +12,4 @@
 * **StockPrices.csv** [correlation] Opening stock prices for Google, Starbucks, and Apple stock since 2007, without time stamp
 * **resistors.csv** [two-sample t-test] A random sample of n=50 resistors from suppliers A and B (mu_A=30, mu_B=29.75)
 * **mats.csv** [paired t-test] A random sample of paired observations (min) on n=30 subjects from suppliers A and B (mu_A=20, mu_B=19)
+* **PowderProduction.csv** [factorial design] An I=3 factor design (Ammonium, StirRate,Temp) with J=2 levels per factor replicated K=2 times, response is Density.  
