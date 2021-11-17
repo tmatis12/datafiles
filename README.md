@@ -14,3 +14,4 @@
 * **mats.csv** [paired t-test] A random sample of paired observations (min) on n=30 subjects from suppliers A and B (mu_A=20, mu_B=19)
 * **PowderProduction.csv** [factorial design] An I=3 factor design (Ammonium, StirRate,Temp) with J=2 levels per factor replicated K=2 times, response is Density.  
 * **HouseTaxes.csv** [simple linear regression] A random sample of n=24 homes with selling price regressed on taxes (in thousands) 
+* **SoftDrink.csv** [muliple regression] A random sample of n=22 delivery times (min) of soft drinks by a driver with covariates of number of cases (count), distacne walked (ft), and city (classifier)  
