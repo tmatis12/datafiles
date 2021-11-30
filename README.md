@@ -15,3 +15,4 @@
 * **PowderProduction.csv** [factorial design] An I=3 factor design (Ammonium, StirRate,Temp) with J=2 levels per factor replicated K=2 times, response is Density.  
 * **HouseTaxes.csv** [simple linear regression] A random sample of n=24 homes with selling price regressed on taxes (in thousands) 
 * **SoftDrink.csv** [muliple regression] A random sample of n=22 delivery times (min) of soft drinks with covariates of number of cases (count), distance walked (ft), and city (classifier)  
+* **SKU.csv** [contingency tables] A single columns without header of n=1000 observations of SKU-1, SKU-2, SKU-3, SKU-4, may be tested against null of count probabilities (.1, .2, .65, .05)
