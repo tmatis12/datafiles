@@ -17,4 +17,5 @@
 * **SoftDrink.csv** [muliple regression] A random sample of n=22 delivery times (min) of soft drinks with covariates of number of cases (count), distance walked (ft), and city (classifier)  
 * **SKU.csv** [goodness of fit] A single columns without header of n=1000 observations of the categorical variables SKU-1, SKU-2, SKU-3, SKU-4, may be tested against null of count probabilities (.1, .2, .65, .05)
 * **SKU_Location.csv** [contingency table] Two columns with n=1000 observations of an r=4 by c=5 contingency table, may be tested against null that categorical cells are equal to product of row and column marginals 
-* **SoftDrinkCarb** [multiple regression]  A random sample of n=12 on the percent cabornation (response) for differing water temperatures and filler pressures (predictors).
+* **SoftDrinkCarb.csv** [multiple regression]  A random sample of n=12 on the percent cabornation (response) for differing water temperatures and filler pressures (predictors).
+* **HospitalMattresses.csv** [forecasting] Quarterly mattress demand from the year 2000-2003 for a hospital
