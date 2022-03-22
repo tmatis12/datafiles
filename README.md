@@ -2,6 +2,7 @@
 
 * **DC_MotorsVoltage.csv:** [hyp testing] A random sample of 100 motors tested for voltage (null = 12V) and visible defects (null = 0.25)
 * **DefectiveParts.csv:** [two-sample proportion test] A random sample of n=1000 parts labeled as 0(good)/1(defective) from each of two populations
+* **Diameter_retrospec_qc.csv** [quality control] A random sample of m=26 subgroups of size n=5 on the diameter of a piston ring for retrospective analysis 
 * **DraftKings_Rockets_Lakers.csv:** [optimization] Daily Fantasy Draft Kings information for NBA Rockets and Lakers used in optimization 
 * **Fabric.csv:** [paired t-test (non-parametric)] A random sample of the tensile strength of n=8 Abraided and Unabriaded fabrics.  May be used in two-sample or paired t-tests on the equality of the means
 * **US_Japanese_Cars.csv** [two-sample t-test] A random sample of n1=35 US cars and n2=28 Japanese cars tested for mpg fuel efficiency 
