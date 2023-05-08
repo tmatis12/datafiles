@@ -23,3 +23,4 @@
 * **SoftDrinkCarb.csv** [multiple regression]  A random sample of n=12 on the percent cabornation (response) for differing water temperatures and filler pressures (predictors).
 * **HospitalMattresses.csv** [forecasting] Quarterly mattress demand from the year 2000-2003 for a hospital
 * **TimeStudyExample.csv** [tidyr] A spreadsheet with m=20 observed times for each of n=5 workers that may be pivoted to longer
+* **TestFiring.csv** [logistic regression] Two columns with target speed (x) and binary hit or miss (y)
