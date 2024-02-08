@@ -24,3 +24,5 @@
 * **HospitalMattresses.csv** [forecasting] Quarterly mattress demand from the year 2000-2003 for a hospital
 * **TimeStudyExample.csv** [tidyr] A spreadsheet with m=20 observed times for each of n=5 workers that may be pivoted to longer
 * **TestFiring.csv** [logistic regression] Two columns with target speed (x) and binary hit or miss (y)
+* **RadDat.csv** [large dataset] This is a large dataset that may be used to do a variety of statistical analyses
+  
