@@ -25,4 +25,5 @@
 * **TimeStudyExample.csv** [tidyr] A spreadsheet with m=20 observed times for each of n=5 workers that may be pivoted to longer
 * **TestFiring.csv** [logistic regression] Two columns with target speed (x) and binary hit or miss (y)
 * **RadDat.csv** [large dataset] This is a large dataset that may be used to do a variety of statistical analyses
+* **FairTraders_Receipts_and_StorageBins.rds** This is an RDS file from the Fair Traders MHI problem with receipts and storage bins.  
   
