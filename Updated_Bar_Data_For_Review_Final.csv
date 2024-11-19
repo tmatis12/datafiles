@@ -1,4 +1,4 @@
-Year,PassFail,Age,LSAT,UGPA,CivPro,LPI,LPII,GPA_1L,GPA_Final,FinalRankPercentile,Accommodations,Probation,LegalAnalysis(TexasPractice),AdvLegalPerfSkills,AdvLegalAnalysis,BarPrepCompany,BarPrepCompletion,OptIntoWritingGuide,#LawSchoolBarPrepWorkshops,StudentSuccessInitiative,MatchedBarPrepMentor,MPRE,MPT,MEE,WrittenScaledScore,MBE,UBE
+Year,PassFail,Age,LSAT,UGPA,CivPro,LPI,LPII,GPA_1L,GPA_Final,FinalRankPercentile,Accommodations,Probation,LegalAnalysis(TexasPractice),AdvLegalPerfSkills,AdvLegalAnalysis,BarPrepCompany,BarPrepCompletion,OptIntoWritingGuide,#LawSchoolBarPrepWorkshops,StudentSuccessInitiative,BarPrepMentor,MPRE,MPT,MEE,WrittenScaledScore,MBE,UBE
 2021,F,29.1,152,3.42,B+,A,A,3.206,3.29,0.46,N,N,Y,Y,Y,Barbri,0.96,,3,N,N,103.0,3.0,2.67,125.5,133.3,258.8
 2021,F,29.6,155,2.82,B+,B,B,2.431,3.2,0.33,Y,Y,Y,Y,Y,Barbri,0.98,,0,Cochran,N,76.0,3.0,3.17,133.1,132.7,265.8
 2021,F,29.0,157,3.46,C,B,B,2.62,2.91,0.08,N,N,Y,Y,Y,Barbri,0.48,,3,Smith,N,99.0,3.0,2.67,125.5,118.2,243.7
